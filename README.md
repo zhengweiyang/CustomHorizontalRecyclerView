@@ -1,0 +1,2 @@
+# CustomHorizontalRecyclerView
+自定义水平可滑动RecyclerView，滑到中间的选项能变大，滑出中间的变小
